@@ -76,10 +76,10 @@ public class MainActivity extends AppCompatActivity {
 
                     if(outputFeature0.getFloatArray()[0]>outputFeature0.getFloatArray()[1])
                     {
-                        tv.setText("weed");
+                        tv.setText("Selected image is: weed");
                     }
                     else
-                        tv.setText("crop");
+                        tv.setText("Selected image is: crop");
 
 
 
