@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
                         tv.setText("Selected image is: weed");
                     }
                     else
-                        tv.setText("Selected image is: crop");
+                        tv.setText("Selected image is: weed");
 
 
 
